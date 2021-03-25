@@ -1,0 +1,8 @@
+name: kAmasterPlugin
+version: 0.2
+main: kAmasterPlugin.kAmasterPlugin
+description: kAmasterPlugin.
+author: toto7735
+commands:
+  commandspy:
+  kaboom:
